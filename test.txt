@@ -1,0 +1,15 @@
+Testcase1 - Verify if we are able to debit money
+Testcase2 - Verify if we are able to credit money
+Testcase3 - Verify if debit is not allowed if there is not money in the balance
+Testcase4 - Verify if debit is not allowed if we have increased the withdrawl limit
+Testcase5 - Verify if transaction of debit is not allowed if we have transaction of debit more than the withdrawl limit
+Testcase6 - Verify if the transaction is failed if there the account in inactive
+Testcase7 - Verify if the transaction is passed if there the account in active
+Testcase8 - Verify if we are able to credit money to someone else account
+Testcase9 - Verify if someother person is unable to debit money from unauthorized account
+Testcase10 - Verify if only we are able to send our bank account balance
+Testcase11 - Verify if one user is able to make multiple accounts
+Testcase12 - Verify if a user is able to fetch all his account number
+Testcase13 - Verify if the account number is less than 10 digits
+Testcase14 - Verify if two user cannot have the same username
+Testcase15 - Verify if two user cannot have the same username but can have same passwords
